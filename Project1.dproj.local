@@ -2,8 +2,8 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2023/02/06 09:51:24.000.045,=C:\Users\k.alkichouhi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/02/06 10:12:53.000.790,C:\Users\k.alkichouhi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\k.alkichouhi\Documents\Software\SimpleCalculator\Calculator.pas</Transaction>
-    <Transaction>2023/02/06 10:12:53.000.790,C:\Users\k.alkichouhi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\k.alkichouhi\Documents\Software\SimpleCalculator\Calculator.dfm</Transaction>
-    <Transaction>2023/02/06 10:13:03.000.854,C:\Users\k.alkichouhi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\k.alkichouhi\Documents\Software\SimpleCalculator\Project1.dproj</Transaction>
+    <Transaction>2023/02/06 10:12:53.000.790,C:\Users\k.alkichouhi\Documents\Software\SimpleCalculator\Calculator.pas=C:\Users\k.alkichouhi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/06 10:12:53.000.790,C:\Users\k.alkichouhi\Documents\Software\SimpleCalculator\Calculator.dfm=C:\Users\k.alkichouhi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/06 10:13:03.000.854,C:\Users\k.alkichouhi\Documents\Software\SimpleCalculator\Project1.dproj=C:\Users\k.alkichouhi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>

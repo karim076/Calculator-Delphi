@@ -15,7 +15,7 @@ object CalculatorWindow: TCalculatorWindow
   object Label1: TLabel
     Left = 306
     Top = 352
-    Width = 31
+    Width = 5
     Height = 28
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
@@ -36,6 +36,13 @@ object CalculatorWindow: TCalculatorWindow
     Font.Name = 'Segoe UI'
     Font.Style = []
     ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 216
+    Top = 112
+    Width = 191
+    Height = 15
+    Caption = 'Kies een van de onderstaande opties'
   end
   object Button1: TButton
     Left = 248
